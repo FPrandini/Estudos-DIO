@@ -1,0 +1,15 @@
+C:\Users\Felipe Prandini\Desktop\DIO\DEV\Estudos-DIO\C#\Desafios\6-sucessopar\desafio\bin\Debug\net6.0\desafio.exe
+C:\Users\Felipe Prandini\Desktop\DIO\DEV\Estudos-DIO\C#\Desafios\6-sucessopar\desafio\bin\Debug\net6.0\desafio.deps.json
+C:\Users\Felipe Prandini\Desktop\DIO\DEV\Estudos-DIO\C#\Desafios\6-sucessopar\desafio\bin\Debug\net6.0\desafio.runtimeconfig.json
+C:\Users\Felipe Prandini\Desktop\DIO\DEV\Estudos-DIO\C#\Desafios\6-sucessopar\desafio\bin\Debug\net6.0\desafio.dll
+C:\Users\Felipe Prandini\Desktop\DIO\DEV\Estudos-DIO\C#\Desafios\6-sucessopar\desafio\bin\Debug\net6.0\ref\desafio.dll
+C:\Users\Felipe Prandini\Desktop\DIO\DEV\Estudos-DIO\C#\Desafios\6-sucessopar\desafio\bin\Debug\net6.0\desafio.pdb
+C:\Users\Felipe Prandini\Desktop\DIO\DEV\Estudos-DIO\C#\Desafios\6-sucessopar\desafio\obj\Debug\net6.0\desafio.csproj.AssemblyReference.cache
+C:\Users\Felipe Prandini\Desktop\DIO\DEV\Estudos-DIO\C#\Desafios\6-sucessopar\desafio\obj\Debug\net6.0\desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Prandini\Desktop\DIO\DEV\Estudos-DIO\C#\Desafios\6-sucessopar\desafio\obj\Debug\net6.0\desafio.AssemblyInfoInputs.cache
+C:\Users\Felipe Prandini\Desktop\DIO\DEV\Estudos-DIO\C#\Desafios\6-sucessopar\desafio\obj\Debug\net6.0\desafio.AssemblyInfo.cs
+C:\Users\Felipe Prandini\Desktop\DIO\DEV\Estudos-DIO\C#\Desafios\6-sucessopar\desafio\obj\Debug\net6.0\desafio.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Prandini\Desktop\DIO\DEV\Estudos-DIO\C#\Desafios\6-sucessopar\desafio\obj\Debug\net6.0\desafio.dll
+C:\Users\Felipe Prandini\Desktop\DIO\DEV\Estudos-DIO\C#\Desafios\6-sucessopar\desafio\obj\Debug\net6.0\ref\desafio.dll
+C:\Users\Felipe Prandini\Desktop\DIO\DEV\Estudos-DIO\C#\Desafios\6-sucessopar\desafio\obj\Debug\net6.0\desafio.pdb
+C:\Users\Felipe Prandini\Desktop\DIO\DEV\Estudos-DIO\C#\Desafios\6-sucessopar\desafio\obj\Debug\net6.0\desafio.genruntimeconfig.cache
